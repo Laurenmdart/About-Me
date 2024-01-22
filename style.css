@@ -1,4 +1,4 @@
-h1 { 
+h1 {
     text-decoration: underline wavy rgba (192, 157, 126, 0.806) 5px; a href="index: .html;"
     border: 10px solid transparent;
     padding: 15px;
@@ -17,16 +17,71 @@ img{
         padding: 12px;
         margin: 5px;
         
-    
 }
 
       body {
         background-color: lightblue;
         p {
             font-family: verdana;
-            font-size: 20px;
+            font-size: 15px;
             color: rgb(93, 50, 50);
             text-align: center;
+            margin: 20px;
           }
+      
+        .group2{
+          background-color: white;
+          border: 1px solid brown;
+          text-align: center;
+          margin: 10px;
+        }
+        
+        .group1{
+          background-color: transparent;
+          text-align: center;
+        }
+        
+        .button{
+          background-color: #ffffff;
+          color: brown;
+          padding: 14px 15px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          border: 1px solid brown;
+          
+        }
+      
+        .group4{
+          background-color: transparent;
+          text-align: center;
+        }
+        
+        .group5{
+           background: white;
+           color: lightblue;
+           padding: 5px;
+           margin-left: 35px;
+           margin: 15px;
+          
+        
+        }
+        
+    
+       ul {
+  
+        list-style-type: square:
+         color: gray;
+      
+
+        }
+        
+        ol {
+  
+        list-style-type: square:
+         color: gray;
+      
+
+        }
       
       
