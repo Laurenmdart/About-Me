@@ -64,7 +64,7 @@ img{
            padding: 5px;
            margin-left: 35px;
            margin: 15px;
-          
+           text-align: left;
         
         }
         
@@ -75,9 +75,10 @@ img{
          color: lightblue;
        background: white;
            color: lightblue;
-           padding: 0px;
-           margin-left: 0px;
+           padding: 5px;
+           margin-left: 35px;
            margin: 15px;
+          text-align: left;
 
         }
         
@@ -90,6 +91,7 @@ img{
            padding: 0px;
            margin-left: 0px;
            margin: 15px;
+            text-align: left;
       
 
         }
