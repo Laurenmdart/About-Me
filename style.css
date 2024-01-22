@@ -72,7 +72,11 @@ img{
   
         list-style-type: square:
          color: lightblue;
-      
+       background: white;
+           color: lightblue;
+           padding: 5px;
+           margin-left: 35px;
+           margin: 15px;
 
         }
         
