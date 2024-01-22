@@ -83,7 +83,12 @@ img{
         ol {
   
         list-style-type: square:
-         color: lightblue;
+         color: lightblue;  
+        background: white;
+           color: lightblue;
+           padding: 5px;
+           margin-left: 35px;
+           margin: 15px;
       
 
         }
