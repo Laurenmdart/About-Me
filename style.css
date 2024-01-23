@@ -4,20 +4,17 @@ h1 {
     padding: 15 px;
     color: rgba (192, 157, 126, 0.806);
 
-}.imgblock {
-  width: auto;
+}.imgblock 
   height: 500px;
   border-image: 25px white;
   padding: 50px;
   background-color: rgb(222, 247, 255);
+  max-width: 500 px; 
 }
 
 .centered-image {
-  width: auto;
   height: 500 px;
   border-image: 15 px;
-  margin: auto;
-  width: auto;
   margin: 5 px;
   max-width: 500 px; 
 }
