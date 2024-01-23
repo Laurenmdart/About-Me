@@ -5,11 +5,14 @@ h1 {
     color: rgba (192, 157, 126, 0.806);
 
     .imgblock {
-      max-width: 500px;
-      height: 500px;
-      border-image: 25px white;
-      padding: 50px;
-      background-color: rgb(222, 247, 255);
+      border-image: 25 px white;
+      padding: 50p x;
+      background-color: #def7ff;
+      
+        width: 100 %;
+        height: auto;
+        display: block;
+    
     }
     
     .centered-image {
@@ -17,6 +20,9 @@ h1 {
       height: 500px;
       border-image: 15px;
       margin: auto;
+      width: 100 %;
+        height: auto;
+        display: block;
     }
 
 
