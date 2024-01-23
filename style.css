@@ -18,6 +18,13 @@ img{
         
 }
 
+.imgblock{
+  a href="index.html;"
+  margin: auto;
+  width: auto;
+  margin: 5 px;
+}
+
       body {
         background-color: lightblue;
         p {
