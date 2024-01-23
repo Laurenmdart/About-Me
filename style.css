@@ -5,10 +5,10 @@ h1 {
     color: rgba (192, 157, 126, 0.806);
 }
 
-img{
+.imgblock{
     width: auto px;
     height: 500 px;
-    border: 25 px white;
+    border-image: 25 px white;
     padding: 50 px;
     background-color: rgb (222, 247, 255); 
     a href="index.html;"
@@ -18,8 +18,10 @@ img{
         
 }
 
-.imgblock{
+.centered-image{
   a href="index.html;"
+  max-width: 100
+  border-image: 15 px;
   margin: auto;
   width: auto;
   margin: 5 px;
