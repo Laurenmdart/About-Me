@@ -20,12 +20,14 @@ h1 {
 
 .centered-image{
   a href="index.html;"
-  max-width: 100
+  width: auto px;
+  height: 500 px;
   border-image: 15 px;
   margin: auto;
   width: auto;
   margin: 5 px;
 }
+
 
       body {
         background-color: lightblue;
