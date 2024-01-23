@@ -3,9 +3,8 @@ h1 {
     border: 10 px solid transparent;
     padding: 15 px;
     color: rgba (192, 157, 126, 0.806);
-}
-
-.imgblock {
+    
+}.imgblock {
   width: auto;
   height: 500px;
   border-image: 25px white;
@@ -20,6 +19,7 @@ h1 {
   margin: auto;
   width: auto;
   margin: 5px;
+  max-width: 500px; /* Adjust this value to achieve the desired size */
 }
 
 
