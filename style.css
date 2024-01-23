@@ -1,12 +1,12 @@
 h1 {
-    text-decoration: underline wavy rgba(104, 74, 74, 0.957) 5 px; a-href="index.html;"
+    text-decoration: underline wavy rgba (104, 74, 74, 0.957) 5 px; a-href="index.html;"
     border: 10 px solid transparent;
     padding: 15 px;
     color: rgba (192, 157, 126, 0.806);
 
     .imgblock {
       border-image: 25 px white;
-      padding: 50p x;
+      padding: 50 px;
       background-color: #def7ff;
       
         width: 100 %;
@@ -37,7 +37,7 @@ h1 {
       
         .group2{
           background-color: white;
-          border: 1 px solid rgb(165, 101, 42);
+          border: 1 px solid rgb (165, 101, 42);
           text-align: center;
           margin: 10 px;
         }
@@ -49,12 +49,12 @@ h1 {
         
         .button{
           background-color: #ffffff;
-          color: rgba(104, 74, 74, 0.957);
+          color: rgba (104, 74, 74, 0.957);
           padding: 14 px 15 px;
           text-align: center;
           text-decoration: none;
           display: inline-block;
-          border: 1 px solid rgba(104, 74, 74, 0.957);
+          border: 1 px solid rgba (104, 74, 74, 0.957);
           
         }
       
@@ -79,7 +79,7 @@ h1 {
         list-style-type: square:
          color: lightblue;
        background: white;
-           color: rgb(100, 156, 175);
+           color: rgb (100, 156, 175);
            padding: 5 px;
            margin-left: 35 px;
            margin: 15 px;
@@ -101,7 +101,7 @@ h1 {
 
         }
 .title{
-    color: rgba(104, 74, 74, 0.957)
+    color: rgba (104, 74, 74, 0.957)
 }
 
 <style>
