@@ -27,6 +27,7 @@ h1 {
   height: auto;
   border: 2 px solid white;
   width: auto;
+  border-image: 25 px white;
 }
 
       body {
