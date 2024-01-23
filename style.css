@@ -3,7 +3,7 @@ h1 {
     border: 10 px solid transparent;
     padding: 15 px;
     color: rgba (192, 157, 126, 0.806);
-    
+
 }.imgblock {
   width: auto;
   height: 500px;
@@ -14,12 +14,12 @@ h1 {
 
 .centered-image {
   width: auto;
-  height: 500px;
-  border-image: 15px;
+  height: 500 px;
+  border-image: 15 px;
   margin: auto;
   width: auto;
-  margin: 5px;
-  max-width: 500px; /* Adjust this value to achieve the desired size */
+  margin: 5 px;
+  max-width: 500 px; 
 }
 
 
