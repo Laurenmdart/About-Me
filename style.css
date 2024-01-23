@@ -16,9 +16,7 @@ h1 {
     }
     
     .centered-image {
-      max-width: 500px;
-      height: 500px;
-      border-image: 15px;
+      border-image: 15 px;
       margin: auto;
       width: 100 %;
         height: auto;
