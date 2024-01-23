@@ -20,12 +20,13 @@ h1 {
 
 .centered-image{
   a href="index.html;"
-  max-width: 100
-  border-image: 15 px;
-  border-color: white;
-  margin: auto;
+  max-width: 100 %;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  height: auto;
+  border: 2 px solid white;
   width: auto;
-  margin: 5 px;
 }
 
       body {
