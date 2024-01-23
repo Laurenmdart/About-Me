@@ -6,9 +6,9 @@ h1 {
 }
 
 .img{
-    width: 200 px;
-    height: 300 px;
-    border: 10 px white;
+    width: auto px;
+    height: auto px;
+    border: 25 px white;
     padding: 15 px;
     background-color: rgb (222, 247, 255); a-href="index.html;" 
         margin: auto;
