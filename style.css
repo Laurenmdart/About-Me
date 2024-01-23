@@ -5,27 +5,21 @@ h1 {
     color: rgba (192, 157, 126, 0.806);
 }
 
-.imgblock{
-    width: auto px;
-    height: 500 px;
-    border-image: 25 px white;
-    padding: 50 px;
-    background-color: rgb (222, 247, 255); 
-    a href="index.html;"
-        margin: auto;
-        width: auto;
-        margin: 5 px;
-        
+.imgblock {
+  width: auto;
+  height: 500px;
+  border-image: 25px white;
+  padding: 50px;
+  background-color: rgb(222, 247, 255);
 }
 
-.centered-image{
-  a href="index.html;"
-  width: auto px;
-  height: 500 px;
-  border-image: 15 px;
+.centered-image {
+  width: auto;
+  height: 500px;
+  border-image: 15px;
   margin: auto;
   width: auto;
-  margin: 5 px;
+  margin: 5px;
 }
 
 
